@@ -2,6 +2,9 @@
 
 Visualization of imdb movies based on genre, ratings and votes using D3 force simulation
 
+![](https://github.com/venikanya/film-flowers/blob/main/sample-film-flowers.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
